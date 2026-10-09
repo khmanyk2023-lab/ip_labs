@@ -11,14 +11,14 @@ body {
     padding: 0;
     line-height: 1.6;
     font-size: 18px;
-    color: #7e004c;
-    background-color: #ffb6e4;
+    color: #6E2437;
+    background-color: #F3EBDD;
 }
 
 /* Header */
 header {
-    background: #ffa0de;
-    color: #7e004c;
+    background: #6E2437;
+    color: #F3EBDD;
     padding: 20px;
     text-align: center;
 }
@@ -29,7 +29,7 @@ header h1 {
 
 /* Navigation Bar */
 nav ul {
-    background: #ffa0de;
+    background: #6E2437;
     text-align: center;
     padding: 10px 0;
 }
@@ -40,7 +40,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #7e004c;
+    color: #F3EBDD;
     text-decoration: none;
     font-weight: bold;
 }
@@ -61,7 +61,7 @@ section {
 #photo-gallery li {
     width: calc(33.333% - 20px);
     margin: 10px;
-    background: #fff;
+    background: #F3EBDD;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -82,7 +82,7 @@ form {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #F3EBDD;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -97,26 +97,26 @@ form textarea {
     width: 100%;
     padding: 8px;
     margin-bottom: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #6E2437;
 }
 
 form button {
     display: inline-block;
-    background: #7e004c;
-    color: #fff;
+    background: #6E2437;
+    color: #F3EBDD;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
 }
 
 form button:hover {
-    background: #7e004c;
+    background: #6E2437;
 }
 
 /* Footer */
 footer {
-    background: #ffa0de;
-    color: #7e004c;
+    background: #6E2437;
+    color: #F3EBDD;
     padding: 20px 0;
     text-align: center;
 }
@@ -132,14 +132,14 @@ footer nav ul li {
 }
 
 footer nav ul li a {
-    color: #7e004c;
+    color: #F3EBDD;
     text-decoration: none;
 }
 
 footer .social-media a {
     display: inline-block;
     margin: 0 5px;
-    color: #7e004c;
+    color: #F3EBDD;
     /* Add additional styles for social media icons if using images or font icons */
 }
 
@@ -148,6 +148,6 @@ footer p {
 }
 
 footer a {
-    color: #7e004c;
+    color: #F3EBDD;
     text-decoration: underline; /* Consider removing underline if using buttons for CTA */
 }
